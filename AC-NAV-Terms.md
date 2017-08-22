@@ -1,6 +1,6 @@
-#NAV - frekventované výrazy#
+# NAV - frekventované výrazy #
 
-Search for Page or Report Vyhledat stránku nebo sestavu
+
 |ENG|CZ|
 |---------|---------|
 |Search for Page or Report |Vyhledat stránku nebo sestavu|
