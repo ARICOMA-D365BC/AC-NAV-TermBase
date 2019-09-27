@@ -1,0 +1,1393 @@
+Available Now	Nyní k dispozici
+See	Jdi na
+2019 Microsoft. All rights reserved.	2019 Microsoft. Všechna práva vyhrazena.
+See Also	Viz také
+Reference	Odkaz
+Concepts	Koncepty
+Warning	Varování
+Note	Poznámka
+Tip	Rada
+Tasks	Úlohy
+How	Jak
+Time sheets	Pracovní výkazy
+For more information about how to…	Pro více informací jak
+Set Up	Nastavit
+For more information, see	Více informací viz
+Home	Domovská stránka
+Edit list	Upravit přehled
+Time Sheet Admin	Administrátor praovních výkazů
+enter	zadat
+resource card	karta zdroje
+FastTab	Záložka
+check box	zaškrtávací políčko
+related link	odpovídající odkaz
+type to filter	fitrovat zadáním (NAV 09)
+submitted	odesláno
+dropped-down list	rozevírací seznam
+Manager Time Sheet by Job	Manažer pracovních výkazů po projektech
+Manager Time Sheet List	Přehled manažerů pracovních výkazů
+vendors	dodavatel (NAV 09)
+required	požadované, potřebné
+role center	Centrum rolí
+Invoicing	Fakturace
+ For more information about how to find specific pages, see	Pro více informací jak najít konkrétní stránky, viz
+Pay-to Vendor No.	Číslo věřitele
+credit memos	dobropisy
+Posting Group	Účto skupina
+VAT posting set up	Nastavení účtování DPH
+Vendor posting group	Účto skupina dodavatele
+general ledger	hlavní kniha
+invoice Disc. Code	kód fakturační slevy
+Prices Including VAT	ceny včetně DPH
+LCY	LM
+entry	položka, položky
+entries	položky
+value entries	položky ocenění
+general ledger entries	věcné položky
+item ledger entries	položky zboží
+general journal	finanční deník
+Posting Group	Účto skupina
+preview	náhled
+non-applied payments	nevyrovnané platby
+Receivables	Pohledávky
+Reorder point	Bod přiobjednání
+Time bucket	Interval dostupnosti
+Inventory	Zásoby
+Reordering policy	Způsob přiobjednání
+Handling	Zpracování 
+Learn about	Seznámení s
+Payment Terms	Platební podmínky
+Currency	Měna
+Finance Charge Terms	Podmínky penále
+Customer Price Group	Cenová skupina zákazníka
+Standard Text	Standardní text
+Language	Jazyk
+Country/Region	Země/oblast
+Shipment Method	Způsob dodávky
+Salesperson/Purchaser	Prodejce/nákupčí
+Location	Lokace
+G/L Account	Finanční účet
+G/L Entry	Věcná položka
+Customer	Zákazník
+Cust. Invoice Disc.	Zák.fakturační sleva
+Cust. Ledger Entry	Položka zákazníka
+Vendor	Dodavatel
+Vendor Invoice Disc.	Dod.fakturační sleva
+Vendor Ledger Entry	Položka dodavatele
+Item	Zboží
+Item Translation	Překlad zboží
+Item Ledger Entry	Položka zboží
+Sales Header	Prodejní hlavička
+Sales Line	Prodejní řádek
+Purchase Header	Nákupní hlavička
+Purchase Line	Nákupní řádek
+Rounding Method	Způsob zaokrouhlení
+Purch. Comment Line	Řádek nákupní poznámky
+Sales Comment Line	Řádek prodejní poznámky
+G/L Register	Finanční žurnál
+Item Register	Žurnál zboží
+Aging Band Buffer	Zásobník pásma splatnosti
+Invt. Posting Buffer	Zásobník účtování zásob
+Invoice Post. Buffer	Zásobník pro fakturaci
+Accounting Period	Účetní období
+User Time Register	Evidence uživatele
+Report Selections	Výběry sestav
+Printer Selection	Volba tiskárny
+Company Information	Informace o společnosti
+Gen. Journal Template	Šablona finančního deníku
+Gen. Journal Line	Řádek finančního deníku
+Item Journal Template	Šablona deníku zboží
+Item Journal Line	Řádek deníku zboží
+Acc. Schedule Name	Název účetního schéma
+Acc. Schedule Line	Řádek účetního schéma
+Exch. Rate Adjmt. Reg.	Žurnál úpravy kurzu
+Date Compr. Register	Žurnál komprese
+BOM Component	Komponenta kusovníku
+User Setup	Nastavení uživatelů
+Customer Posting Group	Účto skupina zákazníka
+Vendor Posting Group	Účto skupina dodavatele
+Inventory Posting Group	Účto skupina zboží
+G/L Budget Name	Název fin.rozpočtu
+G/L Budget Entry	Položka fin.rozpočtu
+Comment Line	Řádek poznámky
+General Ledger Setup	Nastavení financí
+Item Vendor	Zboží dodavatele
+Sales Shipment Header	Hlavička prodejní dodávky
+Sales Shipment Line	Řádek prodejní dodávky
+Sales Invoice Header	Hlavička prodejní faktury
+Sales Invoice Line	Řádek prodejní faktury
+Sales Cr.Memo Header	Hlavička prodejního dobropisu
+Sales Cr.Memo Line	Řádek prodejního dobropisu
+Purch. Rcpt. Header	Hlavička nákupní příjemky
+Purch. Rcpt. Line	Řádek nákupní příjemky
+Purch. Inv. Header	Hlavička nákupní faktury
+Purch. Inv. Line	Řádek nákupní faktury
+Purch. Cr. Memo Hdr.	Hlavička nákupního dobropisu
+Purch. Cr. Memo Line	Řádek nákupního dobropisu
+Incoming Document	Došlý doklad
+Incoming Documents Setup	Nastavení došlých dokladů
+Incoming Document Approver	Schvalovatel došlého dokladu
+Acc. Sched. KPI Web Srv. Setup	Nastavení webové služby KPI účetního schématu
+Acc. Sched. KPI Web Srv. Line	Řádek webové služby KPI účetního schématu
+License Agreement	Licenční smlouva
+Resource Group	Skupina zdrojů
+Resource	Zdroj
+Res. Capacity Entry	Položka kapacity zdrojů
+Job	Projekt
+Job Ledger Entry	Položka projektu
+Standard Sales Code	Kód standardního prodeje
+Standard Sales Line	Řádek standardního prodeje
+Standard Customer Sales Code	Kód std.prodeje zákazníka
+Standard Purchase Code	Kód standardního nákupu
+Standard Purchase Line	Řádek standardního nákupu
+Standard Vendor Purchase Code	Kód std.nákupu dodavatele
+Reversal Entry	Položka storna
+G/L Account Where-Used	Použití finančního účtu
+Work Type	Typ práce
+Resource Price	Prodejní cena zdroje
+Resource Cost	Pořizovací cena zdroje
+Res. Ledger Entry	Položka zdroje
+Unit of Measure	Měrná jednotka
+Resource Unit of Measure	Měrná jednotka zdroje
+Res. Journal Template	Šablona deníku zdrojů
+Res. Journal Line	Řádek deníku zdrojů
+Job Posting Group	Účto skupina projektu
+Job Journal Template	Šablona deníku projektů
+Job Journal Line	Řádek deníku projektů
+Job Posting Buffer	Zásobník pro účtování projektu
+Business Unit	Účetní jednotka
+Gen. Jnl. Allocation	Deník rozdělení
+Ship-to Address	Adresa příjemce
+Drop Shpt. Post. Buffer	Zásobník přímých dodávek
+Order Address	Adresa objednávky
+Post Code	PSČ
+Source Code	Kód původu
+Reason Code	Kód příčiny
+Gen. Journal Batch	List fin.deníku
+Item Journal Batch	List deníku zboží
+Res. Journal Batch	List deníku zdrojů
+Job Journal Batch	List deníku projektů
+Resource Register	Žurnál zdrojů
+Job Register	Žurnál projektů
+Source Code Setup	Nastavení kódů původu
+Req. Wksh. Template	Šablona sešitu požadavků
+Requisition Wksh. Name	Název sešitu požadavků
+Requisition Line	Řádek požadavků
+Gen. Business Posting Group	Obecná obchodní účto skupina
+Gen. Product Posting Group	Obecná účto skupina zboží
+General Posting Setup	Nastavení obecného účtování
+G/L Entry - VAT Entry Link	Věcná položka - odkaz na položku DPH
+VAT Entry	DPH položka
+VAT Statement Template	Šablona výkazu DPH
+VAT Statement Line	Řádek výkazu DPH
+VAT Statement Name	Název výkazu DPH
+Transaction Type	Typ transakce
+Transport Method	Typ přepravy
+Tariff Number	Číslo sazebníku
+Intrastat Jnl. Template	Šablona deníku Intrastat
+Intrastat Jnl. Batch	List deníku Intrastat
+Intrastat Jnl. Line	Řádek deníku Intrastat
+Currency Amount	Částka měny
+Document Entry	Položka dokladu
+Customer Amount	Částka zákazníka
+Vendor Amount	Částka dodavatele
+Item Amount	Částka zboží
+G/L Account Net Change	Pohyb na účtu
+Bank Account	Bankovní účet
+Bank Account Ledger Entry	Položka bankovního účtu
+Check Ledger Entry	Položka šeku
+Bank Acc. Reconciliation	Odsouhlasení bankovního účtu
+Bank Acc. Reconciliation Line	Řádek odsouhlasení bank.účtu
+Bank Account Statement	Výpis bankovního účtu
+Bank Account Statement Line	Řádek příkazu bankovního účtu
+Bank Account Posting Group	Účto skupina bankovního účtu
+Job Journal Quantity	Deník množství projektu
+Extended Text Header	Hlavička rozšířeného textu
+Extended Text Line	Řádek rozšířeného textu
+Phys. Inventory Ledger Entry	Položka fyzické inventury
+Entry/Exit Point	Místo přechodu
+Line Number Buffer	Zásobník čísel řádků
+Area	Oblast
+Transaction Specification	Specifikace transakce
+Territory	Teritorium
+Customer Bank Account	Bankovní účet zákazníka
+Vendor Bank Account	Bankovní účet dodavatele
+Payment Method	Způsob platby
+VAT Amount Line	Řádek částky DPH
+Shipping Agent	Přepravce
+Reminder Terms	Podmínky upomínky
+Reminder Level	Úroveň upomínky
+Reminder Text	Text upomínky
+Reminder Header	Hlavička upomínky
+Reminder Line	Řádek upomínky
+Issued Reminder Header	Hlavička vydané upomínky
+Issued Reminder Line	Řádek vydané upomínky
+Reminder Comment Line	Řádek poznámky upomínky
+Reminder/Fin. Charge Entry	Položka upomínky/penále
+Finance Charge Text	Text penále
+Finance Charge Memo Header	Hlavička penále
+Finance Charge Memo Line	Řádek penále
+Issued Fin. Charge Memo Header	Hlavička vydaného penále
+Issued Fin. Charge Memo Line	Řádek vydaného penále
+Fin. Charge Comment Line	Řádek poznámky penále
+Inventory Buffer	Zásobník zboží
+No. Series	Číselná řada
+No. Series Line	Řádek číselné řady
+No. Series Relationship	Vztah číselné řady
+Sales & Receivables Setup	Nastavení prodeje a pohledávek
+Purchases & Payables Setup	Nastavení nákupu a závazků
+Inventory Setup	Nastavení zásob
+Resources Setup	Nastavení zdrojů
+Jobs Setup	Nastavení projektů
+Payable Vendor Ledger Entry	Splatná položka dodavatele
+Tax Area	Daňová oblast
+Tax Area Line	Řádek daňové oblasti
+Tax Jurisdiction	Daňový předpis
+Tax Group	Daňová skupina
+Tax Detail	Daňový detail
+VAT Business Posting Group	Obchodní DPH účto skupina
+VAT Product Posting Group	DPH účto skupina zboží
+VAT Posting Setup	Nastavení účtování DPH
+Currency for Fin. Charge Terms	Měna pro podmínky penále
+Currency for Reminder Level	Měna pro úroveň upomínky
+Currency Exchange Rate	Směnný kurz
+Adjust Exchange Rate Buffer	Zásobník úpravy sm.kurzu
+Currency Total Buffer	Zásobník měny celkem
+Column Layout Name	Název rozložení sloupce
+Column Layout	Rozložení sloupce
+Resource Price Change	Změna ceny zdroje
+Tracking Specification	Specifikace sledování
+Reservation Entry	Položka rezervace
+Entry Summary	Souhrn položek
+Item Application Entry	Položka vyrovnání zboží
+Customer Discount Group	Skupina slev zákazníka
+Item Discount Group	Skupina slev zboží
+Acc. Sched. Cell Value	Hodnota buňky úč.schéma
+Item Application Entry History	Historie položek vyrovnání zboží
+Close Income Statement Buffer	Zásobník uzavření výsledovky
+Dimension	Dimenze
+Dimension Value	Hodnota dimenze
+Dimension Combination	Kombinace dimenzí
+Dimension Value Combination	Kombinace hodnoty dimenze
+Default Dimension	Výchozí dimenze
+Dimension ID Buffer	Zásobník ID dimenze
+Default Dimension Priority	Výchozí priorita dimenze
+Dimension Buffer	Zásobník dimenze
+Analysis View	Pohled analýzy
+Analysis View Filter	Filtr pohledu analýzy
+Analysis View Entry	Položka pohledu analýzy
+Analysis View Budget Entry	Pol.rozpočtu pohledu analýzy
+Dimension Code Buffer	Zásobník kódů dimenze
+Dimension Selection Buffer	Zásobník výběru dimenze
+Selected Dimension	Vybraná dimenze
+Excel Buffer	Zásobník aplikace Excel
+Budget Buffer	Zásobník rozpočtu
+Payment Buffer	Zásobník plateb
+Dimension Entry Buffer	Zásobník položky dimenze
+G/L Acc. Budget Buffer	Zásobník rozpočtu fin.účtu
+Dimension Code Amount Buffer	Zásobník částky kódu dimenze
+G/L Account (Analysis View)	Fin.účet (pohled analýzy)
+Object Translation	Překlad objektu
+Report List Translation	Překlad seznamu sestav
+Detailed Cust. Ledg. Entry	Detailní položka zákazníka
+Detailed Vendor Ledg. Entry	Detailní položka dodavatele
+VAT Registration No. Format	Formát DIČ
+CV Ledger Entry Buffer	Zásobník položek zákazníka/dodavatele
+Detailed CV Ledg. Entry Buffer	Zásobník detailní položky zák./dodav.
+Reconcile CV Acc Buffer	Zásobník odsouhl. pol. zák./dodav.
+Entry No. Amount Buffer	Zásobník částky pol.č.
+Dimension Translation	Překlad dimenze
+Availability at Date	Dostupnost k datu
+XBRL Taxonomy	Taxonomie XBRL
+XBRL Taxonomy Line	Řádek taxonomie XBRL
+XBRL Comment Line	Řádek poznámky XBRL
+XBRL G/L Map Line	Řádek XBRL propojení fin.kon.
+XBRL Rollup Line	Řádek souhrnu XBRL
+XBRL Schema	Schéma XBRL
+XBRL Linkbase	Propojení XBRL
+XBRL Taxonomy Label	Popis taxonomie XBRL
+Change Log Setup	Nastavení protokolu změn
+Change Log Setup (Table)	Nastavení protokolu změn (tabulka)
+Change Log Setup (Field)	Nastavení protokolu změn (pole)
+Change Log Entry	Položka protokolu změn
+XBRL Line Constant	Konstanta řádku XBRL
+SMTP Mail Setup	Nastavení poštovního protokolu SMTP
+IC G/L Account	Mezipod.fin.účtu
+IC Dimension	Mezipod.dimenze
+IC Dimension Value	Hodnota vnitropodnikové dimenze
+IC Partner	Vnitropodnikový partner
+IC Outbox Transaction	Transakce vnitropodnikové pošty k odeslání
+IC Outbox Jnl. Line	Řádek deníku vnitropodnikové pošty k odeslání
+Handled IC Outbox Trans.	Zpracované transakce vnitropodnikové pošty k odeslání
+Handled IC Outbox Jnl. Line	Zpracovaný řádek deníku vnitropodnikové pošty k odeslání
+IC Inbox Transaction	Tr.vnitrop.dor.pošty
+IC Inbox Jnl. Line	Řádek deníku vnitropodnikové doručené pošty
+Handled IC Inbox Trans.	Zpracované transakce vnitropodnikové doručené pošty
+Handled IC Inbox Jnl. Line	Zpracovaný řádek deníku vnitropodnikové doručené pošty
+IC Inbox/Outbox Jnl. Line Dim.	Dimenze řádky deníku vnitropodnikové doručené pošty/pošty k odeslání
+IC Comment Line	Řádek poznámky o vnitropodnikové transakci
+IC Outbox Sales Header	Prodejní hlavička vnitropodnikové pošty k odeslání
+IC Outbox Sales Line	Prodejní řádek vnitropodnikové pošty k odeslání
+IC Outbox Purchase Header	Nákupní hlavička vnitropodnikové pošty k odeslání
+IC Outbox Purchase Line	Nákupní řádek vnitropodnikové pošty k odeslání
+Handled IC Outbox Sales Header	Zpracovaná prodejní hlavička vnitropodnikové pošty k odeslání
+Handled IC Outbox Sales Line	Zpracovaný prodejní řádek vnitropodnikové pošty k odeslání
+Handled IC Outbox Purch. Hdr	Zpracovaná nákupní hlavička vnitropodnikové pošty k odeslání
+Handled IC Outbox Purch. Line	Zpracovaný nákupní řádek vnitropodnikové pošty k odeslání
+IC Inbox Sales Header	Prodejní hlavička vnitropodnikové doručené pošty
+IC Inbox Sales Line	Prodejní řádek vnitropodnikové doručené pošty
+IC Inbox Purchase Header	Nákupní hlavička vnitropodnikové doručené pošty
+IC Inbox Purchase Line	Nákupní řádek vnitropodnikové doručené pošty
+Handled IC Inbox Sales Header	Zpracovaná prodejní hlavička vnitropodnikové doručené pošty
+Handled IC Inbox Sales Line	Zpracovaný prodejní řádek vnitropodnikové doručené pošty
+Handled IC Inbox Purch. Header	Zpracovaná nákupní hlavička vnitropodnikové doručené pošty
+Handled IC Inbox Purch. Line	Zpracovaný nákupní řádek vnitropodnikové doručené pošty
+IC Document Dimension	Dimenze vnitropodnikového dokladu
+Bar Chart Buffer	Zásobník pruhového grafu
+Approval Setup	Nastavení schvalování
+Approval Code	Kód schvalování
+Approval Entry	Položka schvalování
+Approval Comment Line	Řádek poznámky schvalování
+Posted Approval Entry	Zaúčtovaná položka schvalování
+Posted Approval Comment Line	Řádek zaúčtované poznámky schvalování
+Overdue Notification Entry	Pol. protokolu vypr.platnosti
+Sales Prepayment %	Prodejní záloha v %
+Purchase Prepayment %	Nákupní záloha v %
+Prepayment Inv. Line Buffer	Zásobník řádků zálohové faktury
+Payment Term Translation	Překlad platebních podmínek
+Shipment Method Translation	Překlad způsobu dodávky
+Approval Templates	Šablony schvalování
+Additional Approvers	Další schvalovatelé
+Job Queue	Nastavení fronty úloh
+Job Queue Category	Proces fronty úloh
+Job Queue Entry	Položka fronty úloh
+Job Queue Log Entry	Položka protokolu fronty úloh
+Dimension Set Entry	Položka sady dimenzí
+Dimension Set Tree Node	Uzel stromu sady dimenzí
+Reclas. Dimension Set Buffer	Zásobník přeřazení sady dimenzí
+Business Chart Buffer	Zásobník obchodního grafu
+Business Chart Map	Mapování obchodních grafů
+Business Chart User Setup	Nastavení uživatelů obchodního grafu
+VAT Rate Change Setup	Nastavení změny sazby DPH
+VAT Rate Change Conversion	Změna přepočtu sazby DPH
+VAT Rate Change Log Entry	Položka protokolu změn sazby DPH
+VAT Clause	Klauzule DPH
+VAT Clause Translation	Překlad klauzule DPH
+VAT Report Header	Hlavička DPH reportu
+VAT Report Line	Řádek DPH reportu
+VAT Report Setup	Nastavení DPH reportu
+VAT Report Line Relation	Řádek relace DPH reportu
+VAT Report Error Log	Chyba logu DPH reportu
+Standard General Journal	Standardní finanční deník
+Standard General Journal Line	Řádek standardního finančního deníku
+Standard Item Journal	Standardní deník zboží
+Standard Item Journal Line	Řádek standardního deníku zboží
+Trailing Sales Orders Setup	Nastavení nevyřízených prodejních objednávek
+Account Schedules Chart Setup	Nastavení grafu účetních schémat
+Acc. Sched. Chart Setup Line	Řádek nastavení grafu úč.schémata
+Analysis Report Chart Setup	Nastavení grafu analýzy
+Analysis Report Chart Line	Řádek grafu analýzy
+Certificate of Supply	Certifikát dodání
+Online Map Setup	Nastavení Online Map
+Online Map Parameter Setup	Nastavení parametrů Online Map
+Name/Value Buffer	Zásobník názvu/hodnoty
+DO Payment Connection Details	Detaily spojení platby DO
+DO Payment Connection Setup	Nastavení produktu Microsoft Dynamics ERP Payment
+DO Payment Setup	Konfigurace plateb Dynamics Online
+DO Payment Credit Card	Platební karta platby Dynamics Online
+DO Payment Credit Card Number	Platba DO - číslo platební karty
+DO Payment Trans. Log Entry	Platba DO - položka protokolu transakcí
+DO Payment Card Type	Typ platební karty Dynamics Online
+Cash Flow Forecast	Plán cash flow
+Cash Flow Account	Účet cash flow
+Cash Flow Account Comment	Poznámka účtu cash flow
+Cash Flow Setup	Nastavení cash flow
+Cash Flow Worksheet Line	Řádek sešitu cash flow
+Cash Flow Forecast Entry	Položka plánu cash flow
+Cash Flow Manual Revenue	Ruční příjem cash flow
+Cash Flow Manual Expense	Ruční výdej cash flow
+Cash Flow Report Selection	Výběr sestav cash flow
+Cash Flow Chart Setup	Nastavení grafu cash flow
+Assembly Header	Hlavička montáže
+Assembly Line	Řádek montáže
+Assemble-to-Order Link	Odkaz na Montáž-na-zakázku
+Assembly Setup	Nastavení montáže
+Assembly Comment Line	Řádek poznámky montáže
+Posted Assembly Header	Účtovaná hlavička montáže
+Posted Assembly Line	Účtovaný řádek montáže
+Posted Assemble-to-Order Link	Odkaz na účovanou Montáž-na-zakázku
+ATO Sales Buffer	Zásobník ATO prodeje
+Time Sheet Header	Hlavička pracovního výkazu
+Time Sheet Line	Řádek pracovního výkazu
+Time Sheet Detail	Detail pracovního výkazu
+Time Sheet Comment Line	Řádek poznámky pracnovního výkazu
+Time Sheet Header Archive	Archiv hlavičky pracovního výkazu
+Time Sheet Line Archive	Archiv řádku pracovního výkazu
+Time Sheet Detail Archive	Archiv detailu pracovního výkazu
+Time Sheet Cmt. Line Archive	Archiv poznámek pracovního výkazu
+Time Sheet Posting Entry	Účetní položka pracovního výkazu
+Time Sheet Chart Setup	Nastavení grafu pracovního výkazu
+Payment Registration Setup	Nastavení registrace plateb
+Payment Registration Buffer	Zásobník registrace úhrad
+Document Search Result	Výsledek hledání dokladu
+Job Task	Úloha projektu
+Job Task Dimension	Dimenze úlohy projektu
+Job Planning Line	Řádek plánování projektu
+Job WIP Entry	Položka NV projektu
+Job WIP G/L Entry	Věcná položka NV projektu
+Job WIP Method	Metoda NV projektu
+Job WIP Warning	Varování NV projektu
+Job Resource Price	Cena zdroje projektu
+Job Item Price	Cena za zboží projektu
+Job G/L Account Price	Cena fin. účtu projektu
+Job Entry No.	Číslo položky projektu
+Job Buffer	Zásobník projektu
+Job WIP Buffer	Zásobník NV projektu
+Job Difference Buffer	Zásobník rozdílů projektu
+Job Usage Link	Propojení spotřeby projektu
+Job WIP Total	NV projektu celkem
+Job Planning Line Invoice	Faktura řádku plánování projektu
+Cost Journal Template	Šablona deníku nákladů
+Cost Journal Line	Řádek deníku nákladů
+Cost Journal Batch	List deníku nákladů
+Cost Type	Typ pořizovací ceny
+Cost Entry	Položka nákladu
+Cost Register	Žurnál nákladů
+Cost Allocation Source	Zdroj rozdělení nákladů
+Cost Allocation Target	Cíl rozdělení nákladů
+Cost Accounting Setup	Nastavení nákladového účetnictví
+Cost Budget Entry	Položka rozpočtu nákladu
+Cost Budget Name	Název rozpočtu nákladů
+Cost Budget Register	Žurnál rozpočtu nákladů
+Cost Center	Nákladové středisko
+Cost Object	Nositel nákladů
+Cost Budget Buffer	Zásobník rozpočtu nákladu
+Bank Export/Import Setup	Nastavení exportu/importu banky
+Credit Transfer Register	Bezhotovostní převod
+Credit Transfer Entry	Položka bezhotovostního převodu
+Direct Debit Collection	Přímé inkaso
+Direct Debit Collection Entry	Položka přímého inkasa
+Posting Exch.	Výměna úč. dat
+Posting Exch. Field	Pole výměny úč. dat
+Posting Exch. Def	Definice výměny úč. dat
+Posting Exch. Column Def	Definice sloupce výměny úč. dat
+Posting Exch. Mapping	Mapování výměny úč. dat
+Posting Exch. Field Mapping	Pole mapování výměny úč. dat
+Payment Export Data	Export dat plateb
+Posting Exch. Line Def	Definice řádku výměny úč. dat
+Payment Jnl. Export Error Text	Chybový text deníku exportu úhrad
+Payment Export Remittance Text	Text exportu při zaslání úhrady
+SEPA Direct Debit Mandate	SEPA povolení přímého inkasa
+Bank Statement Matching Buffer	Zásobník párování bankovního výpisu
+Account Mapping	Mapování účtů
+Mini Customer Template	Mini šablona zákazníka
+Mini Item Template	Mini šablona zboží
+Mini Dimensions Template	Mini šablona dimenzí
+Mini Vendor Template	Mini šablona dodavatele
+Sales Price and Line Disc Buff	Zásobník prodejních cen a řádkových slev
+Mini Pages Mapping	Mini mapování stránek
+Mini User Removed Instructions	Mini uživatel odstranil pokyny
+Mini Chart Definition	Mini definice grafu
+Mini Last Used Chart	Mini graf naposledy použitý
+Mini Trial Balance Setup	Mini nastavení obratové předvahy
+Sales by Cust. Grp.Chart Setup	Tržby podle nastavení zákaznické skupiny grafu
+Contact	Kontakt
+Contact Alt. Address	Alternativní adresa kontaktu
+Contact Alt. Addr. Date Range	Rozmezí data alt. adr. kontaktu
+Business Relation	Obchodní vztah
+Contact Business Relation	Obchodní vztah kontaktu
+Mailing Group	Poštovní skupina
+Contact Mailing Group	Poštovní skupina kontaktu
+Industry Group	Průmyslová skupina
+Contact Industry Group	Průmyslová sk.kontaktu
+Web Source	Webový zdroj
+Contact Web Source	Webový zdroj kontaktu
+Rlshp. Mgt. Comment Line	Řádek pozn.správce vztahů
+Attachment	Příloha
+Interaction Group	Skupina interakce
+Interaction Template	Šablona interakce
+Interaction Log Entry	Položka protokolu interakce
+Job Responsibility	Pracovní odpovědnost
+Contact Job Responsibility	Pracovní odpovědnost kontaktu
+Salutation	Oslovení
+Salutation Formula	Formát oslovení
+Organizational Level	Organizační úroveň
+Campaign	Kampaň
+Campaign Entry	Položka kampaně
+Campaign Status	Stav kampaně
+Delivery Sorter	Třídění doručenek
+Logged Segment	Protokolovaný segment
+Segment Header	Hlavička segmentu
+Segment Line	Řádek segmentu
+Segment History	Historie segmentu
+Marketing Setup	Nastavení marketingu
+To-do	Úkol
+Activity	Aktivita
+Activity Step	Krok aktivity
+Team	Tým
+Team Salesperson	Tým prodejce
+Contact Duplicate	Duplikát kontaktu
+Cont. Duplicate Search String	Vyhl.řetězec dupl.kontaktu
+Profile Questionnaire Header	Hlavička profil.dotazníku
+Profile Questionnaire Line	Řádek profil.dotazníku
+Contact Profile Answer	Odpověď na profil kontaktu
+Sales Cycle	Prodejní cyklus
+Sales Cycle Stage	Fáze prodejního cyklu
+Opportunity	Příležitost
+Opportunity Entry	Položka příležitosti
+Close Opportunity Code	Kód uzavření příležitosti
+Duplicate Search String Setup	Nastavení vyhl.řetězce dupl.
+Segment Wizard Filter	Filtr průvodce segmentu
+Segment Criteria Line	Řádek kritéria segmentu
+Saved Segment Criteria	Uložená kritéria segmentu
+Saved Segment Criteria Line	Uložená kritéria řádku seg.
+Communication Method	Způsob komunikace
+Contact Value	Hodnota kontaktu
+RM Matrix Management	Správce matice SV
+Interaction Tmpl. Language	Jazyk šablony interakce
+Segment Interaction Language	Jazyk interakce segmentu
+Customer Template	Šablona zákazníka
+Sales Header Archive	Archivovaná prodejní hlavička
+Sales Line Archive	Archivovaný prodejní řádek
+Purchase Header Archive	Archivovaná nákupní hlavička
+Purchase Line Archive	Archivovaný nákupní řádek
+Rating	Hodnocení
+Interaction Template Setup	Nastavení šablon interakce
+Inter. Log Entry Comment Line	Řádek pozn.pol.prot.integrace
+Current Salesperson	Aktuální prodejce
+Purch. Comment Line Archive	Archiv řádku nákupní poznámky
+Sales Comment Line Archive	Archiv řádku prodejní poznámky
+Integration Page	Stránka integrace
+Integration Record	Záznam Integrace
+To-do Interaction Language	Jazyk interakce úkolu
+Attendee	Účastník
+Employee	Zaměstnanec
+Alternative Address	Alternativní adresa
+Qualification	Kvalifikace
+Employee Qualification	Kvalifikace zaměstnance
+Relative	Příbuzný
+Employee Relative	Příbuzní zaměstnance
+Cause of Absence	Důvod absence
+Employee Absence	Absence zaměstnance
+Human Resource Comment Line	Řádek pozn.lidského zdroje
+Union	Odbory
+Cause of Inactivity	Důvod pasivity
+Employment Contract	Pracovní smlouva
+Employee Statistics Group	Stat.skupina zaměstnance
+Misc. Article	Různé předměty
+Misc. Article Information	Informace o předmětech
+Confidential	Důvěrné
+Confidential Information	Důvěrné informace
+Grounds for Termination	Důvody ukončení
+Human Resources Setup	Nastavení lidských zdrojů
+HR Confidential Comment Line	Řádek důvěrné pozn.lid.zdrojů
+Human Resource Unit of Measure	Lidské zdroje - měrná jednotka
+Outlook Synch. Entity	Synch. entita s apl. Outlook
+Outlook Synch. Entity Element	Prvek synch. entity apl. Outlook
+Outlook Synch. Link	Odkaz synch. s apl. Outlook
+Outlook Synch. Filter	Filtr synch. s apl. Outlook
+Outlook Synch. Field	Pole synch. s apl. Outlook
+Outlook Synch. User Setup	Nastavení uživatele synch. s apl. Outlook
+Outlook Synch. Lookup Name	Název vyhledávání synch. s apl. Outlook
+Outlook Synch. Option Correl.	Korelace možnosti synch. s apl. Outlook
+Outlook Synch. Setup Detail	Podrobnosti nastavení synch. s apl. Outlook
+Outlook Synch. Dependency	Závislost synch. s apl. Outlook
+Exchange Folder	Složka Exchange
+Item Variant	Varianta zboží
+Unit of Measure Translation	Překlad měrné jednotky
+Item Unit of Measure	Měrná jednotka zboží
+Production Order	Výrobní zakázka
+Prod. Order Line	Řádek výrobní zakázky
+Prod. Order Component	Komponenta výrobní zakázky
+Prod. Order Routing Line	Řádek TNG výrobní zakázky
+Prod. Order Capacity Need	Potřebná kapacita výr.zak.
+Prod. Order Routing Tool	Nástroj TNG postupu výr.zak.
+Prod. Order Routing Personnel	Osoba TNG výrobní zakázky
+Prod. Order Rtng Qlty Meas.	Míra kv.TNG výrobní zakázky
+Prod. Order Comment Line	Řádek poznámky výr.zakázky
+Prod. Order Rtng Comment Line	Řádek pozn.TNG výrobní zakázky
+Prod. Order Comp. Cmt Line	Řádek pozn.kus.výrobní zakázky
+Planning Error Log	Protokol chyb plánování
+Unplanned Demand	Neplánovaná poptávka
+Manufacturing User Template	Uživatelská šablona výroby
+Inventory Event Buffer	Zásobník události zboží
+Inventory Page Data	Údaje stránky zásob
+Timeline Event	Událost časové osy
+Timeline Event Change	Změna události časové osy
+Fixed Asset	Dlouhodobý majetek
+FA Ledger Entry	Položka DM
+FA Setup	Nastavení DM
+FA Posting Type Setup	Nast.typu účtování DM
+FA Journal Setup	Nastavení deníku DM
+FA Posting Group	Účto skupina DM
+FA Class	Třída DM
+FA Subclass	Podtřída DM
+FA Location	Umístění DM
+Depreciation Book	Kniha odpisů
+FA Depreciation Book	Kniha odpisů DM
+FA Allocation	Rozdělení DM
+Maintenance Registration	Evidence údržby
+FA Register	Žurnál DM
+FA Journal Template	Šablona deníku DM
+FA Journal Batch	List deníku DM
+FA Journal Line	Řádek deníku DM
+FA Reclass. Journal Template	Šablona deníku přeřazení DM
+FA Reclass. Journal Batch	List deníku přeřazení DM
+FA Reclass. Journal Line	Řádek deníku přeřazení DM
+Maintenance Ledger Entry	Položka údržby
+Maintenance	Údržba
+Insurance	Pojištění
+Ins. Coverage Ledger Entry	Položka pojistného krytí
+Insurance Type	Typ pojištění
+Insurance Journal Template	Šablona deníku pojištění
+Insurance Journal Batch	List deníku pojištění
+Insurance Journal Line	Řádek deníku pojištění
+Insurance Register	Žurnál pojištění
+FA G/L Posting Buffer	Zásobník účtování DM
+Main Asset Component	Komponenta hlavního DM
+FA Buffer Projection	Zásobník přeměny DM
+Depreciation Table Header	Hlavička tabulky odpisů
+Depreciation Table Line	Řádek tabulky odpisů
+FA Posting Type	Typ účtování DM
+FA Date Type	Typ data DM
+Depreciation Table Buffer	Zásobník tabulky odpisů
+FA Matrix Posting Type	Matice typu účtování DM
+FA Posting Group Buffer	Zásobník účto skupiny DM
+Total Value Insured	Celková pojištěná částka
+Stockkeeping Unit	Skladová jednotka
+Stockkeeping Unit Comment Line	Řádek pozn.skladové jednotky
+Responsibility Center	Centrum odpovědnosti
+Item Substitution	Náhrada zboží
+Substitution Condition	Podmínka náhrady
+Item Cross Reference	Křížový odkaz zboží
+Nonstock Item	Neskladované zboží
+Nonstock Item Setup	Nastavení nesklad. zboží
+Manufacturer	Výrobce
+Purchasing	Nakupování
+Item Category	Kategorie zboží
+Product Group	Skupina zboží
+Transfer Header	Hlavička transferu
+Transfer Line	Řádek transferu
+Transfer Route	Trasa transferu
+Transfer Shipment Header	Hlavička dodávky transferu
+Transfer Shipment Line	Řádek dodávky transferu
+Transfer Receipt Header	Hlavička příjemky transferu
+Transfer Receipt Line	Řádek příjemky transferu
+Inventory Comment Line	Řádek poznámky zásob
+Warehouse Request	Požadavek skladu
+Warehouse Activity Header	Hlavička aktivity skladu
+Warehouse Activity Line	Řádek aktivity skladu
+Whse. Cross-Dock Opportunity	Možnost přeložení ve skladě
+Warehouse Setup	Nastavení skladu
+Warehouse Comment Line	Řádek poznámky skladu
+Warehouse Source Filter	Filtr původu skladu
+Registered Whse. Activity Hdr.	Hl.zapsané aktivity skladu
+Registered Whse. Activity Line	Řádek zapsané aktivity skladu
+Shipping Agent Services	Služby přepravce
+Item Charge	Poplatek za zboží
+Value Entry	Položka ocenění
+Item Journal Buffer	Zásobník deníku zboží
+Avg. Cost Adjmt. Entry Point	Místo zadání úpravy průměrné ceny
+Item Charge Assignment (Purch)	Přiřazení popl. za zboží (nákup)
+Item Charge Assignment (Sales)	Přiřazení popl. za zboží (prodej)
+Rounding Residual Buffer	Zásobník zaokrouhlení zbytku
+Post Value Entry to G/L	Položka ocenění k zaúčtování
+Inventory Posting Setup	Nastavení účtování zásob
+Inventory Period	Období zásob
+Inventory Period Entry	Položka období zásob
+Cost Element Buffer	Zásobník nákladové složky
+Item Statistics Buffer	Zásobník statistiky zboží
+Invt. Post to G/L Test Buffer	Zásobník testu zaúčtování zásob
+G/L - Item Ledger Relation	Vazba věcná pol. - pol. zboží
+Availability Calc. Overview	Přehled výpočtu dostupnosti
+Capacity Ledger Entry	Položka kapacity
+Standard Cost Worksheet Name	Název sešitu pevné poř.ceny
+Standard Cost Worksheet	Sešit pevné ceny
+Inventory Report Header	Záhlaví sestavy zásob
+Inventory Report Entry	Položka sestavy zásob
+Average Cost Calc. Overview	Přehled výpočtu průměrné pořizovací ceny
+Cost Share Buffer	Zásobník podílu nákladů
+BOM Buffer	Zásobník kusovníku
+Memoized Result	Uložený výsledek
+Item Availability by Date	Dostupnost zboží dle data
+BOM Warning Log	Protokol upozornění- kusovník
+Error Buffer	Zásobník chyb
+Inventory Adjustment Buffer	Zásobník adjustace zboží
+Inventory Adjmt. Entry (Order)	Položka adj. zboží (objednávka)
+Service Header	Hlavička servisu
+Service Item Line	Řádek předmětu servisu
+Service Line	Řádek servisu
+Service Order Type	Typ servisní zakázky
+Service Item Group	Skupina předmětů servisu
+Service Cost	Servisní náklady
+Service Comment Line	Řádek poznámky servisu
+Service Ledger Entry	Položka servisu
+Warranty Ledger Entry	Položka záruky
+Service Shipment Buffer	Zásobník dodávky servisu
+Service Hour	Servisní hodina
+Service Mgt. Setup	Nastavení správce servisu
+Service Document Log	Protokol servisních dokladů
+Loaner	Zápůjčka
+Loaner Entry	Položka zápůjčky
+Fault Area	Oblast poruchy
+Symptom Code	Kód příznaku
+Fault Reason Code	Kód důvodu poruchy
+Fault Code	Kód poruchy
+Resolution Code	Kód vyřešení
+Fault/Resol. Codes Rlship.	Vztah kódů poruchy/vyřešení
+Fault Area/Symptom Code	Oblast poruchy/Kód poruchy
+Repair Status	Stav opravy
+Service Status Priority Setup	Nast.priority stavu servisu
+Service Shelf	Servisní regál
+Service Order Posting Buffer	Zásobník účtování serv.zakázky
+Service Register	Žurnál servisu
+Service E-Mail Queue	Fronta e-mailů servisu
+Service Document Register	Žurnál servisních dokladů
+Service Item	Předmět servisu
+Service Item Component	Komponenta předmětu servisu
+Service Item Log	Protokol předmětu servisu
+Troubleshooting Header	Hlavička poradce při potížích
+Troubleshooting Line	Řádek poradce při potížích
+Troubleshooting Setup	Nastavení poradce při potížích
+Service Order Allocation	Přidělení servisní zakázky
+Resource Location	Lokace zdroje
+Work-Hour Template	Šablona pracovní doby
+Skill Code	Kód odbornosti
+Resource Skill	Odbornost zdroje
+Service Zone	Zóna servisu
+Resource Service Zone	Zóna servisu zdroje
+Service Contract Line	Řádek servisní smlouvy
+Service Contract Header	Servisní smlouva
+Contract Group	Skupina smluv
+Contract Change Log	Protokol změny smlouvy
+Service Contract Template	Šablona servisní smlouvy
+Contract Gain/Loss Entry	Položka zisku/ztráty smlouvy
+Filed Service Contract Header	Archivovaná servisní smlouva
+Filed Contract Line	Řádek archivované smlouvy
+Contract/Service Discount	Sleva smlouva/servis
+Service Contract Account Group	Skupina účtů servisní smlouvy
+Service Shipment Item Line	Řádek předmětu dodávky servisu
+Service Shipment Header	Hlavička dodávky servisu
+Service Shipment Line	Řádek dodávky servisu
+Service Invoice Header	Hlavička faktury servisu
+Service Invoice Line	Řádek fakturace servisu
+Service Cr.Memo Header	Hlavička dobropisu servisu
+Service Cr.Memo Line	Řádek dobropisu servisu
+Standard Service Code	Kód standardního servisu
+Standard Service Line	Řádek standardního servisu
+Standard Service Item Gr. Code	Kód standardní skupiny předmětů servisu
+Service Price Group	Cenová skupina servisu
+Serv. Price Group Setup	Nastavení cenové sk.servisu
+Service Price Adjustment Group	Skupina úpravy ceny servisu
+Serv. Price Adjustment Detail	Detail úpravy ceny servisu
+Service Line Price Adjmt.	Úprava ceny řádku servisu
+Item Tracking Code	Kód sledování zboží
+Serial No. Information	Informace o sér.čísle
+Lot No. Information	Informace o čísle šarže
+Item Tracking Comment	Poznámka sledování zboží
+Item Entry Relation	Relace položky zboží
+Value Entry Relation	Relace položky ocenění
+Whse. Item Entry Relation	Relace skladové položky zboží
+Item Tracing Buffer	Zásobník trasování zboží
+Item Tracing History Buffer	Zásobník historie trasování zboží
+Record Buffer	Zásobník záznamů
+Whse. Item Tracking Line	Řádek sledování zboží skladu
+Return Reason	Příčina vratky
+Return Shipment Header	Hlavička dodávky vratky
+Return Shipment Line	Řádek dodávky vratky
+Return Receipt Header	Hlavička příjmu vratky
+Return Receipt Line	Řádek příjmu vratky
+Returns-Related Document	Doklad spojený s vratkou
+Sales Price	Prodejní cena
+Sales Line Discount	Prodejní řádková sleva
+Purchase Price	Nákupní cena
+Purchase Line Discount	Sleva nákupního řádku
+Sales Price Worksheet	Sešit prodejní ceny
+Campaign Target Group	Cílová skupina kampaně
+Analysis Field Value	Hodnota pole analýzy
+Analysis Report Name	Název sestavy analýzy
+Analysis Line Template	Šablona řádků analýzy
+Analysis Type	Typ analýzy
+Analysis Line	Řádek analýzy
+Analysis Column Template	Šablona sloupců analýzy
+Analysis Column	Sloupec analýzy
+Item Budget Name	Název rozpočtu zboží
+Item Budget Entry	Položka rozpočtu zboží
+Item Budget Buffer	Zásobník rozpočtu zboží
+Item Analysis View	Pohled analýzy zboží
+Item Analysis View Filter	Filtr pohledu analýzy zboží
+Item Analysis View Entry	Položka pohledu analýzy zboží
+Item Analysis View Budg. Entry	Položka rozpočtu pohledu analýzy zboží
+Analysis Dim. Selection Buffer	Zásobník výběru dimenze pro analýzu
+Analysis Selected Dimension	Analýza - vybraná dimenze
+Sales Shipment Buffer	Zásobník prodejních dodávek
+Zone	Zóna
+Warehouse Employee	Zaměstnanec skladu
+Bin Content	Obsah přihrádky
+Bin Type	Typ přihrádky
+Warehouse Class	Třída skladu
+Special Equipment	Speciální vybavení
+Put-away Template Header	Hlavička šablony zaskladnění
+Put-away Template Line	Řádek šablony zaskladnění
+Warehouse Journal Template	Šablona deníku skladu
+Warehouse Journal Batch	List deníku skladu
+Warehouse Journal Line	Řádek deníku skladu
+Warehouse Entry	Položka skladu
+Warehouse Register	Žurnál skladu
+Warehouse Receipt Header	Hlavička příjmu na sklad
+Warehouse Receipt Line	Řádek příjmu na sklad
+Posted Whse. Receipt Header	Účtovaná hlav.příjmu na sklad
+Posted Whse. Receipt Line	Řádek účto.příjmu na sklad
+Warehouse Shipment Header	Hlavička dodávky ze skladu
+Warehouse Shipment Line	Řádek dodávky ze skladu
+Posted Whse. Shipment Header	Účtovaná hlav.dod.ze skladu
+Posted Whse. Shipment Line	Řádek účto.dodávky ze skladu
+Whse. Put-away Request	Požadavek zaskladnění
+Whse. Pick Request	Požadavek vyskladnění
+Whse. Worksheet Line	Řádek sešitu skladu
+Whse. Worksheet Name	Název sešitu skladu
+Whse. Worksheet Template	Šablona sešitu skladu
+Bin Content Buffer	Zásobník obsahu přihrádky
+Whse. Internal Put-away Header	Hlavička interního zaskladnění
+Whse. Internal Put-away Line	Řádek interního zaskladnění
+Whse. Internal Pick Header	Hlavička interního vyskladnění
+Whse. Internal Pick Line	Řádek interního vyskladnění
+Bin Template	Šablona přihrádky
+Bin Creation Wksh. Template	Šabl.seš.vytvoření přihrádky
+Bin Creation Wksh. Name	Název seš.vytvoření přihrádky
+Bin Creation Worksheet Line	Řádek seš.vytvoření přihrádky
+Posted Invt. Put-away Header	Účtovaná hlavička zaskl.zásob
+Posted Invt. Put-away Line	Účtovaný řádek zaskl.zásob
+Posted Invt. Pick Header	Účtovaná hlavička vyskl.zásob
+Posted Invt. Pick Line	Účtovaný řádek vyskl.zásob
+Registered Invt. Movement Hdr.	Hlavička zapsaného sklad.pohybu
+Registered Invt. Movement Line	Řádek zapsaného skladového pohybu
+Internal Movement Header	Hlavička interního přesunu
+Internal Movement Line	Řádek interního přesunu
+Lot Numbers by Bin Buffer	Zásobník čísel šarže dle příhrádek
+Bin	Přihrádka
+Reservation Entry Buffer	Zásobník položek rezervace
+Phys. Invt. Item Selection	Výběr zboží fyz.inventury
+Phys. Invt. Counting Period	Období fyzické inventury
+Base Calendar	Základní kalendář
+Base Calendar Change	Změna základního kalendáře
+Customized Calendar Change	Změna upraveného kalendáře
+Customized Calendar Entry	Položka upraveného kalendáře
+Where Used Base Calendar	Použití základního kalendáře
+Miniform Header	Hlavička miniformuláře
+Miniform Line	Řádek miniformuláře
+Miniform Function Group	Skupina funkcí miniformuláře
+Miniform Function	Funkce miniformuláře
+Item Identifier	Identifikátor zboží
+ADCS User	ADCS uživatel
+Dimensions Field Map	Mapa polí dimenzí
+Config. Questionnaire	Dotazník nastavení
+Config. Question Area	Oblast otázek
+Config. Question	Otázka konfigurace
+Config. Package Table	Tabulka konfiguračního balíčku
+Config. Package Record	Záznam konfiguračního balíčku
+Config. Package Data	Přehled migrace - rozšířený
+Config. Package Field	Pole konfiguračního balíčku
+Config. Package Error	Chyba balíčku konfigurace
+Config. Template Header	Hlavička šablony dat
+Config. Template Line	Řádek šablony dat
+Config. Selection	Výběr konfigurace
+Config. Line	Řádek konfigurace
+Config. Package	Konfigurační balíček
+Config. Related Field	Konfigurace souvisejících polí
+Config. Related Table	Konfigurace souvisejích tabulek
+Config. Package Filter	Filtr konfiguračního balíčku
+Config. Setup	Nastavení konfigurace
+Warehouse Basic Cue	Základní hromádka skladu
+Warehouse WMS Cue	Hromádka skladu systému správce skladu
+Service Cue	Servisní hromádka
+Sales Cue	Prodejní hromádka
+Finance Cue	Finanční hromádka
+Purchase Cue	Nákupní hromádka
+Manufacturing Cue	Hromádka výroby
+Job Cue	Hromádka projektů
+Warehouse Worker WMS Cue	Hromádka pracovníků skladu systému správce skladu
+Administration Cue	Hromádka správy
+SB Owner Cue	Hromádka majitelů malých firem
+RapidStart Services Cue	Hromádka RapidStart
+My Customer	Můj zákazník
+My Vendor	Můj dodavatel
+My Item	Mé zboží
+Generic Chart Setup	Nastavení grafu
+Generic Chart Filter	Filtr grafu
+Generic Chart Y-Axis	Osa-Y grafu
+Generic Chart Query Column	Sloupec dotazu grafu
+Generic Chart Captions Buffer	Zásobník titulků grafu
+Generic Chart Memo Buffer	Zásobník poznámek grafu
+XML Schema	XML schéma
+XML Schema Element	XML Schema Element
+XML Schema Restriction	Omezení XML schématu
+Table Filter	Filtr tabulky
+Banking Setup	Nastavení bankovního styku
+Constant Symbol	Konstantní symbol
+Payment Title	Platební titul
+Applying Template	Šablona párování
+Bank Statement Header	Hlavička bankovního výpisu
+Bank Statement Line	Řádek bankovního výpisu
+Issued Bank Statement Header	Hlavička vydaného bank. výpisu
+Issued Bank Statement Line	Řádek vydaného bank. výpisu
+Payment Order Header	Hlavička platebního příkazu
+Payment Order Line	Řádek platebního příkazu
+Issued Payment Order Header	Hlavička vydaného plateb.přík.
+Issued Payment Order Line	Řádek vydaného plateb. příkazu
+Cash Document Header	Hlavička pokladního dokladu
+Cash Document Line	Řádek pokladního dokladu
+Posted Cash Document Header	Hlavička zaúčtovaného pokladního dokladu
+Posted Cash Document Line	Řádek zaúčtovaného pokladního dokladu
+Cash Desk User	Uživatel pokladny
+Cash Desk Event	Pokladní případ
+Currency Nominal Value	Nominální hodnota měny
+Cash Desk Cue	Pokladní hromádka
+Cash Desk Report Selections	Výběry sestav pokladny
+Uncertainty Payer Entry	Položka nespolehlivosti plátce
+Electronically Govern. Setup	Nastavení elektronické komunikace
+Registration Country/Region	Země/oblasti registrace
+Registr. Country/Region Route	Směry země/oblasti registrace 
+Curr.Ex.Rate Country/Reg. Fill	Směnný kurs země/oblasti plnění
+Excel Template	Šablona aplikace Excel
+Statement File Mapping	Mapování výkazů na šablonu
+VAT Identifier	Identifikátor DPH
+VAT Identifier Translate	Překlad identifikátoru DPH
+TMP VAT Tariff No. Buffer	TMP Zásobník DPH číslo sazebníku 
+G/L Account Adjustment Buffer	Dočasná pro vyrov.spoj.účtu
+Bank Acc. Adjustment Buffer	Dočasná pro vyrov.bank.účtu
+VAT Statement Comment Line	Řádek poznámky výkazu DPH
+VAT Statement Attachment	Příloha výkazu DPH
+Enhanced Currency Buffer	Rozšířený zásobník měny celkem
+Multiple Interest Calc. Line	Více řádků výpočtu úroků
+Detailed G/L Entry	Detailní věcná položka
+VAT Attribute Code	Kód atributu DPH
+VAT Period	Období DPH
+Subst. Customer Posting Group	Náhr. účto skupina zákazníka
+Subst. Vendor Posting Group	Náhr. účto skupina dodavatele
+Multiple Interest Rate	Vícenásobná úroková sazba
+Non Deductible VAT Setup	Nastavení neodčitatelné DPH
+Posting Description	Text položky
+Posting Desc. Parameter	Parametr textu položky
+Detailed Fin. Charge Memo Line	Detailní řádek penále
+Detailed Iss.Fin.Ch. Memo Line	Detailní řádek vydaného penále
+Detailed Reminder Line	Detailní řádek upomínky
+Detailed Issued Reminder Line	Detailní řádek vydané upomínky
+Industry Code	Kód odvětví
+Company Officials	Zástupci společnosti
+Vendor Template	Šablona dodavatele
+User Setup Line	Řádek nastavení uživatelů
+XML Export Buffer	Zásobník exportu XML
+No. Series Link	Návaznost číselných řad
+Sales Advance Letter Header	Prodejní zálohová faktura
+Sales Advance Letter Line	Řádek prodejní zálohové faktury
+Sales Advance Letter Entry	Položka oznámení prod. zálohy
+Sales Adv. Payment Template	Kniha prodejních záloh
+Advance Link	Propojení zálohy
+Advance Link Buffer	Zásobník propojení záloh
+Purch. Advance Letter Header	Nákupní zálohová faktura
+Purch. Advance Letter Line	Řádek nákupní zálohové faktury
+Purch. Advance Letter Entry	Položka oznámení nák. zálohy
+Advance Letter Line Relation	Vztah řádku zálohové faktury
+VAT Amount Line Adv. Payment	Řádek částky DPH - zálohy
+Adv. Letter Linking Buffer	Zásobník přiřazení řádků záloh
+Adv. Letter Line Rel. Buffer	Vztah řádku zálohy
+Purchase Adv. Payment Template	Kniha nákupních záloh
+Adv. Linking Buffer	Zásobník propojení záloh
+Advance Report Selections	Výběry sestav záloh
+Classification Code	Kód klasifikace
+Depreciation Group	Odpisová skupina
+FA Extended Posting Group	Rozšířená účto skupina DM
+SKP Code	Kód SKP
+FA History Entry	Položka historie DM
+Credits Setup	Nastavení zápočtů
+Credit Report Selections	Výběry sestav - zápočty
+Credit Header	Hlavička zápočtu
+Credit Line	Řádek zápočtu
+Posted Credit Header	Hlavička účtovaného zápočtu
+Posted Credit Line	Řádek účovaného zápočtu
+VIES Transaction Buffer	Zásobník transakce VIES
+Intrastat Currency Exch. Rate	Směnný kurz Intrastat
+Statistic Indication	Statistický údaj
+Specific Movement	Specifický pohyb
+Intrastat Delivery Group	Dodací skupina Intrastat
+Stat. Reporting Setup	Nastavení stat. vykazování
+VIES Declaration Header	Hlavička Souhrnného hlášení
+VIES Declaration Line	Řádek Souhrnného hlášení
+Package Material	Obalový materiál
+Item Package Material	Obalový materiál zboží
+Stockkeeping Unit Template	Šablona skladové jednotky
+Whse. Net Change Template	Šablona skladového pohybu
+Reconcile Value Entry Buffer	Zásobník odsouhlasení položek ocenění
+Export Acc. Schedule	Export účetního schéma
+Acc. Schedule Filter Line	Řádek filtrů účetního schéma
+Acc. Schedule Result Line	Řádek výsledku úč. schématu
+Acc. Schedule Result Column	Sloupec Výsledek úč. schématu
+Acc. Sched. Expression Buffer	Zásobník výrazů úč. schématu
+Acc. Schedule Dim. Filter	Filtr dimenzí úč. schématu
+Acc. Schedule Result Header	Hlavička výsledku úč. schématu
+Acc. Schedule Result Value	Hodnota výsledku úč. schématu
+Acc. Schedule Result History	Historie výsledku úč. schématu
+Acc. Schedule Extension	Rozšíření úč. schématu
+Document Footer	Zápatí dokumentu
+Report Parameter	Parametr reportu
+Object Store Setup	Nastavení skladu objektů
+Object Store Information	Informace skladu objektů
+Object Store Version	Verze objektu skladu
+Object Store History	Historie objektu skladu
+Object Store Cue	Hromádka objektů skladu
+Visible Fee	Viditelný poplatek
+Excise	Spotřební daň
+Excise Setup	Nastavení spotřební daně
+Excise Ledger Entry	Položka spotřební daně
+Excise Journal Template	Šablona deníku spotřební daně
+Excise Journal Batch	List deníku spotřební daně
+Excise Journal Line	Řádek deníku spotřební daně
+Excise Closing Buffer	Buffer uzavření spotřební daně
+Excise Register	Žurnál spotřební daně
+Insolvence Register Setup	Nastavení insolvenčního rejstříku
+Insolvence Register Action	Akce insolvenčního rejstříku
+Insolvence Register Event	Událost insolvenčního rejstříku
+Insolvence Register Case	Věc insolvenčního rejstříku
+Insolvence Register Subject	Osoba insolvenčního rejstříku
+Insolvence Register Address	Adresa insolvenčního rejstříku
+Insolvence Reg. Process Status	Stav řízení insolvenčního rejstříku
+Insolvence Reg. Event Type	Typ události insolvenčního rejstříku
+Factoring Header	Hlavička factoringu
+Factoring Line	Řádek factoringu
+Posted Factoring Header	Hlavička účtovaného factoringu
+Posted Factoring Line	Řádek účtovaného factoringu
+Factoring Setup	Nastavení factoringu
+Factoring Posting Buffer	Factoring Posting Buffer
+Factoring Statistic Buffer TMP	Factoring Statistic Buffer TMP
+More Payment Method Setup	Nastavení více způsobů platby
+Payment Schedule Header	Hlavička rozpisu platby
+Payment Schedule Line	Řádek rozpisu platby
+Fiscal Printer	Fiskální tiskárna
+Payment Place	Platební místo
+Fiscal Ledger Entry	Fiskální položka
+Detailed Fiscal Ledg. Entry	Detailní fiskální položka
+Fiscal Posting Buffer	Fiskální buffer účtování
+Item Charge Journal Template	Šablona deníku poplatku zboží
+Item Charge Journal Line	Řádek deníku poplatků zboží
+Item Charge Journal Assignment	Přiřazení deníku popl. zboží
+Packing Statement	Výkaz obalů
+Packing Statement Element Def.	Definice prvku výkazu obalů
+Packing Statement Element	Prvek výkazu obalů
+Packing Statement Element Ass.	Přiřazení prvku výkazu obalů
+Packing Stat. El. Exception	Výjimka prvku výkazu obalů
+Packing Statement Entry	Položka výkazu obalů
+Return. Packing Setup	Nastavení vrat. obalů
+Returnable Packing	Vratný obal
+Return. Packing Ledger Entry	Položka vrat. obalu
+Return. Packing App. Entry	Položka vyrovnání vrat. obalu
+Return. Packing Register	Žurnál vrat. obalu
+Return. Packing Category	Kategorie vrat. obalu
+Return. Packing Comment Line	Řádek poznámky vrat. obalu
+Return. Packing Journal Templ.	Šablona deníku vrat. obalu
+Return. Packing Journal Batch	List deníku vrat. obalu
+Return. Packing Journal Line	Řádek deníku vrat. obalu
+Electronic Document Setup	Nastavení elektronických dokladů
+Data Box Setup	Nastavení datových schránek
+Mail Record Attachment	Příloha evidence pošty
+Closed Mail Record Attachment	Příloha uzavřené evidence pošty
+Data Box Owner Info	Vlastník datové schránky
+Data Box Message	Zpráva datové schránky
+Data Box Loged User	Datová schránka - přihlášený uživatel
+Mail Record Template	Šablona evidence pošty
+Mail Record	Evidence pošty
+Mail Record Line	Řádek evidence pošty
+Mail Record Liquidation Line	Řádek likvidace evidence pošty
+Mail Record Comment Line	Řádek poznámky evidence pošty
+Closed Mail Record	Uzavřená evidence pošty
+Closed Mail Record Line	Řádek uzavřené evidence pošty
+Closed Mail Record Liq. Line	Řádek likvidace uzavřené evidence pošty
+Closed Mail Record Comm. Line	Řádek poznámky uzavřené evidence pošty
+General Parameter Template	Šablona obecných parametrů
+Template Gen. Parameter	Obecný parametr šablony
+General Parameter	Obecný parametr
+General Parameter Value	Hodnota obecného parametru
+Gen. Param. Card Assignment	Obecný parametr karty
+Gen. Param. Selection Buffer	Zásobník výběru parametrů
+Selected Gen. Parameter	Vybraný obecný parametr
+Gen. Param. Data Type Buffer	Zásobník dat.typů obecných parametrů
+General Parameter Translation	Překlad obecného parametru
+Gen. Param. Value Translation	Překlad hodnoty obec.parametru
+GP Universal Form TMP	GP Universal Form TMP
+GP Key Buffer	Zásobník klíčů
+Document Publishing Setup	Nastavení publikování dokumentů
+Document Library	Knihovna dokumentů
+Document Placement	Uložení dokumentu
+Published Document Entry	Položka publikovaného dokumentu
+SharePoint Document	Dokument SharePoint
+Document Parameter	Parametr dokumentu
+Document Parameter Value	Hodnota parametru dokumentu
+Library Document Parameter	Parametr knihovny dokumentu
+Document Param. Assignment	Přiřazení param. dokumentu
+Published Document	Publikovaný dokument
+Published Document Parameter	Parametr publ. dokumentu
+Publ. Doc. MOSS Param. Buffer	Zásobník MOSS param. publ. dok.
+Publ. Doc. Param. Sel. Buffer	Zásobník výběru parametrů publ. dokumentu
+Selected Publ. Doc. Parameter	Vybraný parametr publ. dokumentu
+Publ.Doc.Param.Data Type Buff.	Zásobník dat.typů parametrů publ. dokumentu
+Publ. Doc. Translate Table	Převod znaků pro publ. dokument
+Publishing Object	Objekt pro publikaci
+Publishing Template	Publikační šablona
+Publishing Template User Check	Uživatelská kontrola šablon publikace
+Publishing Template File Type	Typ souboru šablony publikace
+Multiple Linking Table	Tabulka pro hromad. evidenci
+Publishing Template Form	Formulář publikační šablony
+Document File Name Field	Pole názvu dokumentu
+Document File Name Field Value	Hodnota pole názvu souboru
+Default Document Field Value	Výchozí hodnota pole dokumentu
+Publishing Template Output	Výstupy publ. šablony
+Assignment Doc.Table Linking	Přiřaz tab. hromadné evidence
+Assign. Document Field Value	Přiřaz. hodnota pole dokumentu
+Default File Type	Výchozí typ souboru
+Published Document List	Buffer přehledu publ. dok.
+Document Field Desc. Field	Pole popisu pole dokumentu
+Publ. Doc. Entry Buffer	Buffer pol. publ. dokumentu
+Buffer Imp Excel Table	Buffer Imp Excel Table
+PD Universal Form TMP	PD Universal Form TMP
+PD Key Buffer	Klíče
+Publ.Doc.Param Table - Link	Parametry publ. dokumentu - relace
+Table Field Update Setup	Nastavení aktualizace pole tabulky
+Published Task	Publikovaný úkol
+Published Task Parameter	Parametr publ. úkolu
+Published Task Comment Line	Řádek poznámky publ. úkolu
+Published Task Entry	Položka publikovaného úkolu
+Default Task Field Value	Výchozí hodnota pole úkolu
+Task Field Desc. Field	Pole popisu pole úkolu
+Transport Setup	Nastavení dopravy
+Vehicle Type	Typ vozidla
+Vehicle Equipment	Vybavení vozidla
+Vehicle	Vozidlo
+Assigned Vehicle Equipment	Přiřazené vybavení vozidla
+Transport Comment Line	Řádek poznámky dopravy
+Maintenance Type	Typ údržby
+Vehicle Maintenance Line	Řádek údržby vozidla
+Maintenance Plan	Plán údržby
+Maintenance Plan Criterion	Kritérium údržby
+Vehicle Unit of Measure	Měrná jednotka vozidla
+Operation Type	Typ provozu
+Vehicle Cost	Pořizovací cena vozidla
+Vehicle Consumption	Spotřeba vozidla
+Professional Qualification	Odborná způsobilost
+Driver	Řidič
+Driver Qualification	Odborná způsobilost řidiče
+Drive Ledger Entry	Položka knihy jízd
+Drive Journal Template	Šablona knihy jízd
+Drive Journal Batch	List knihy jízd
+Drive Journal Line	Řádek knihy jízd
+Drive Register	Žurnál jízd
+Fuel Payment Card	Platební karta
+Fuel Code	Kód PHM
+Fuel Item Vendor	Zboží dodavatele PHM
+Fuel Ledger Entry	Položka PHM
+Fuel Journal Template	Šablona deníku PHM
+Fuel Journal Batch	List deníku PHM
+Fuel Journal Line	Řádek deníku PHM
+Fuel Register	Žurnál PHM
+Refuelling Statement Template	Šablona výpisu čerpání PHM
+Refuelling Statement Header	Hlavička výpisu čerpání PHM
+Refuelling Statement Line	Řádek výpisu čerpání PHM
+Issued Refuelling Stmt. Header	Hlavička vyd.výpisu čerpání PHM
+Issued Refuelling Stmt. Line	Řádek vydaného výpisu čerpání PHM
+Transport Requisition Line	Řádek požadavků na dopravu
+Drive Order Header	Hlavička příkazu k jízdě
+Drive Order Line	Řádek příkazu k jízdě
+Issued Drive Order Header	Hlavička vyd.příkazu k jízdě
+Issued Drive Order Line	Řádek vyd.příkazu k jízdě
+Workflow Setup	Nastavení Workflow
+Workflow Template	Šablona workflow
+Workflow Status	Stav workflow
+Action	Akce
+Workflow Action	Akce workflow
+Checked Workflow Field	Kontrolované pole workflow
+Set Workflow Field	Nastavované pole workflow
+Workflow User Check	Uživatelská kontrola workflow
+Workflow Mail Part	Část mailu workflow
+Workflow Mail Parametrize	Parametrizace mailu workflow
+Workflow Log Entry	Položka protokolu workflow
+Workflow Condition	Podmínka workflow
+Workflow Responsible Person	Odpovědná osoba workflow
+Workflow Monitored Field	Sledované pole workflow
+Workflow Auto Action	Automatická akce workflow
+Workflow Auto Checked Field	Auto. kontrolované pole workflow
+Workflow Auto Set Field	Auto. nastavované pole workflow
+Checked Workflow Table	Kontrolované tabulky workflow
+Checked Workflow Table - Link	Kontrolované tabulky WF - relace
+Event Template	Šablona události
+Event Field Phase	Fáze pole
+Event Date Filter	Filtr data
+Event E-mail	E-mail
+Event Entry	Položka události
+Event Comment Line	Řádek poznámky události
+Closed Event Entry	Uzavřená položka události
+Closed Event Comment Line	Řádek poznámky uzavřené události
+Event E-mail Part	Část mailu události
+Event E-mail Parametrize	Parametrizace mailu události
+RADY	RADY
+KARTY	KARTY
+SARZE_SN	SARZE_SN
+SKLADY	SKLADY
+LOKACE	LOKACE
+OBJEDNAVKY	OBJEDNAVKY
+POHYBY	POHYBY
+SKLADNICI	SKLADNICI
+MSU Series	MSU Řada
+MSU Entry	MSU Položka
+MSU Setup	Nastavení MSU
+MSU Warehouseman	MSU Skladník
+Qty. on Location Buff.	Qty. on Location Buff.
+Complaints Setup	Nastavení reklamací
+Complaint Header	Hlavička reklamace
+Complaint Line	Řádek reklamace
+Complaint Fulfilment Line	Řádek vyřízení reklamace
+Complaint Reason	Důvod reklamace
+Complaint Cause	Příčina reklamace
+Complaint Fulfilment Method	Způsob vyřízení reklamace
+Complaint Line Source Doc. Log	Historie původního dokladu řádku reklamace
+Complaint Comment Line	Řádek poznámky reklamace
+Helpdesk Setup	Nastavení helpdesku
+User Category	Kategorie uživatele
+Request Category 1	Kategorie požadavku 1
+Request Category 2	Kategorie požadavku 2
+Request Category 3	Kategorie požadavku 3
+Request Priority	Priorita požadavku
+Entitled Person	Oprávněná osoba
+Solution	Řešení
+Helpdesk Request	Helpdesk požadavek
+Helpdesk Request Line	Řádek helpdesk požadavku
+Request Comment Line	Řádek poznámky požadavku
+Central Database Table Setup	Nastavení tabulky centrální databáze
+Central Database Field Setup	Nastavení polí centrální databáze
+Central Database Receiver	Centrální databáze - příjemce
+Central Data Change Log Entry	Položka protokolu změn centrální databáze
+Central Database Setup	Nastavení centrální databáze
+Query	Dotaz CD
+Signal	Semafor
+Central Database T. Relation	Relace tabulky centrální databáze
+Central Database F. Relation	Relace polí centrální databáze
+Central Database Field Transl.	Překlad pole centrální databáze
+Central Database Synchronize	Synchronizace centrální databáze
+Puller TMP	Puller TMP
+Spooler Setup	Nastavení Spooleru
+Agent	Agent
+Spooler Task	Úloha spooleru
+IN Buffer	IN buffer
+OUT Buffer	OUT buffer
+Destination System	Cílový systém
+Spooler Task Destination	Cíl úlohy spooleru
+Additional Interaction Param.	Přídavný parametr komunikace
+Archived IN Buffer	Archivovaný IN Buffer
+Archived OUT Buffer	Archivovaný OUT Buffer
+Electronic Document Entry	Položka elektronického dokladu
+OUT Buffer Document	Dokument OUT buffru
+Archived OUT Buffer Document	Dokument archivovaného OUT buffru
+Spooler Credential	Přihlašovací údaje spooleru
+Spooler Log Entry	Položka protokolu spooleru
+Spooler Monitor Line	Řádek monitoru Spooleru
+Tool Ledger Entry	Položka evidence nástrojů
+Tool Journal Line	Řádek deníku evidence nástrojů
+Tool Journal Template	Šablona deníku evidence nástrojů
+Tool Journal Batch	List deníku evidence nástrojů
+Damage Type	Typ poškození
+Tool Entry Type Setup	Nastavení typu položky evidence nástrojů
+EDI Setup	Nastavení EDI
+EDI Partner	EDI partner
+EDI Communication Setup	Nastavení komunikace EDI
+EDI Entry	Položka EDI
+Detailed EDI Entry	Detailní položka EDI
+EDI Table Lock Entry	Položka zámku tabulky EDI
+EDI Invoicing Protocol	Protokol EDI fakturace
+EDI Order Import	Import EDI Objednávek
+EDI Com Setup Check Line	Řádek kontroly nastavení EDI komunikace
+Comitance Advice Header	Hlavička obchodní námitky
+Comitance Advice Line	Řádek obchodní námitky
+Job Queue Entry Parameter	Parametr položky fronty úloh
+Job Queue Extension Setup	Nastavení rozšíření fronty úloh
+Job Queue Action	Akce fronty úloh
+Job Queue Entry Action	Akce položky fronty úloh
+Work Shift	Pracovní směna
+Shop Calendar	Kalendář dílny
+Shop Calendar Working Days	Kalendář prac.dnů dílny
+Shop Calendar Holiday	Kalendář volna dílny
+Work Center	Pracovní centrum
+Work Center Group	Skupina pracovních center
+Calendar Entry	Položka kalendáře
+Machine Center	Strojní centrum
+Calendar Absence Entry	Položka kalendáře absence
+Stop	Prostoj
+Scrap	Zmetky
+Routing Header	Hlavička TNG postupu
+Routing Line	Řádek TNG postupu
+Manufacturing Setup	Nastavení výroby
+Manufacturing Comment Line	Řádek poznámky výroby
+Production BOM Header	Hlavička výrobního kusovníku
+Production BOM Line	Řádek výrobního kusovníku
+Family	Skupina výrobků
+Family Line	Řádek sk.výrobků
+Routing Comment Line	Řádek poznámky postupu
+Production BOM Comment Line	Řádek pozn.výrobního kusovníku
+Routing Link	Vazba TNG postupu
+Standard Task	Standardní úloha
+Production BOM Version	Verze výrobního kusovníku
+Capacity Unit of Measure	Měrná jednotka kapacity
+Standard Task Tool	Nástroj standardní úlohy
+Standard Task Personnel	Osoba standardní úlohy
+Standard Task Description	Popis standardní úlohy
+Standard Task Quality Measure	Míra kvality standardní úlohy
+Quality Measure	Míra kvality
+Routing Version	Verze TNG postupu
+Production Matrix BOM Line	Řádek matice výr.kusovníku
+Production Matrix  BOM Entry	Položka matice výr.kusovníku
+Where-Used Line	Řádek použití
+Order Tracking Entry	Položka sledování objednávky
+Sales Planning Line	Řádek plánování prodeje
+Routing Tool	Nástroj TNG postupu
+Routing Personnel	Osoba TNG postupu
+Routing Quality Measure	Míra kvality TNG postupu
+Planning Component	Plánovaná komponenta
+Planning Routing Line	Řádek plánování TNG
+Item Availability Line	Řádek zboží k dispozici
+Planning Buffer	Zásobník plánování
+Registered Absence	Evidovaná absence
+Action Message Entry	Položka hlášení akce
+Planning Assignment	Přiřazení plánováním
+Production Forecast Name	Název výrobní prognózy
+Production Forecast Entry	Položka výrobní prognózy
+Inventory Profile	Profil zásob
+Inventory Profile Track Buffer	Zásobník sledování profilu zásob
+Untracked Planning Element	Nesledovaný prvek plánování
+Capacity Constrained Resource	Zdroj s limitovanou kapacitou
+Order Promising Setup	Nastavení příslibů objednávek
+Order Promising Line	Řádek příslibu objednávky
+TempBlob	Dočasný objekt BLOB
+Permission Set	Role uživatele
+Permission	Práva
+Company	Společnost
+Access Control	Správa přístupu k syst.Windows
+Send-To Program	Cílový program
+Style Sheet	Šablona stylů
+User Default Style Sheet	Výchozí šablona stylů uživ.
+Record Link	Odkaz na záznam
+Client Add-in	Doplněk klienta
+Object Metadata	Metadata objektu
+Profile	Profil
+User Personalization	Přizpůsobení uživatelem
+Profile Metadata	Metadata profilu
+User Metadata	Metadata uživatele
+Web Service	Webová služba
+Chart	Graf
+Object Tracking	Sledování objektu
+Page Data Personalization	Přizpůsobení dat stránky
+Debugger Breakpoint	Debugger Breakpoint
+Debugger Watch	Debugger Watch
+Active Session	Active Session
+Session Event	Session Event
+Server Instance	Instance serveru
+Document Service	Služba pro dokumenty
+User	Uživatel
+User Property	Vlastnost uživatele
+Device	Zařízení
